@@ -4289,7 +4289,7 @@ fb-watchman@^2.0.0:
 
 "feed@git+https://github.com/mks1412/feed.git#develop":
   version "4.1.0"
-  resolved "git+https://github.com/mks1412/feed.git#252111e0f92595a919b3a718706ab15057c7210e"
+  resolved "git+https://github.com/mks1412/feed.git#f614f1c1cdd233c727a5bd30afda2e24feb0a144"
   dependencies:
     xml-js "^1.6.11"
 
